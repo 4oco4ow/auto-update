@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Exclude .gitignore itself
+!.gitignore
+
+# Exclude GitHub workflows
+!.github/
+!.github/workflows/
