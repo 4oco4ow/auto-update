@@ -4,6 +4,8 @@
 # Exclude .gitignore itself
 !.gitignore
 
-# Exclude GitHub workflows
+# Exclude the .github folder and its contents
+!.github
 !.github/
+!.github/workflows
 !.github/workflows/
