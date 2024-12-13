@@ -5,7 +5,6 @@
 !.gitignore
 
 # Exclude the .github folder and its contents
-!.github
 !.github/
-!.github/workflows
 !.github/workflows/
+!.github/workflows/release.yml
